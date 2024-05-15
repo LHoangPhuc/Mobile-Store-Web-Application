@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+
+                <!-- Tắt kiểm tra chứng chỉ SSL -->
+                <certificates src="system" />
+                <certificates src="user" />
+
+            <!-- Add trusted certificate authorities if needed -->
+        </trust-anchors>
+    </base-config>
+</network-security-config>

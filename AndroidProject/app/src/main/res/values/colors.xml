@@ -1,0 +1,20 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color> <!-- Mã màu vàng -->
+    <color name="blue">#0000FF</color> <!-- Mã màu vàng -->
+    <color name="red">#FF0000</color> <!-- Mã màu đỏ -->
+    <color name="green">#00FF00</color> <!-- Mã màu xanh lá -->
+    <color name="purple">#800080</color> <!-- Mã màu tím -->
+    <color name="orange">#FFA500</color> <!-- Mã màu cam -->
+    <color name="gray">#808080</color> <!-- Mã màu xám -->
+    <color name="brown">#A52A2A</color> <!-- Mã màu nâu -->
+    <color name="pink">#FFC0CB</color> <!-- Mã màu hồng -->
+    <color name="cyan">#00FFFF</color> <!-- Mã màu xanh da trời -->
+    <color name="magenta">#FF00FF</color> <!-- Mã màu đỏ tím -->
+    <color name="lightgray">#D3D3D3</color> <!-- Mã màu xám nhạt -->
+    <color name="darkgray">#A9A9A9</color> <!-- Mã màu xám đậm -->
+    <color name="lightblue">#34C6F6</color> <!-- Mã màu xanh nhạt -->
+
+
+</resources>
